@@ -1,0 +1,9 @@
+CARNET D'OBJECTIFS - installation sur le telephone
+
+1. Mets ce dossier en ligne sur un hebergement HTTPS (GitHub Pages, Netlify, ou ton propre serveur).
+2. Ouvre l'adresse dans Chrome sur ton telephone.
+3. Menu (3 points) > "Ajouter a l'ecran d'accueil" / "Installer l'application".
+4. L'application s'ouvre ensuite hors ligne. Les objectifs sont stockes sur le telephone.
+
+Pense a utiliser "Exporter mes objectifs" (onglet Bilan) de temps en temps :
+si tu effaces les donnees de Chrome ou changes de telephone, le fichier exporte permet de tout restaurer.
